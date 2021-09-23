@@ -24,4 +24,4 @@ Tambien e participado en concursos a nivel de colegio en debate en competencias 
 -  Mi linkendin: linkedin.com/in/jerimy-pierre-sandoval-rivera-04a519219
 
 
-- Un gran compañero, que busca cumplir sus metas, y lograr, a futuro, ser un ingeniero de la computacion. 
+"Un gran compañero, que busca cumplir sus metas, y lograr, a futuro, ser un ingeniero de la computacion" (*Kevin Dulanto*)
