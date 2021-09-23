@@ -22,3 +22,6 @@ Tambien e participado en concursos a nivel de colegio en debate en competencias 
 -  jeremi8462@gmail.com
 -  Numero de celular: 960888489
 -  Mi linkendin: linkedin.com/in/jerimy-pierre-sandoval-rivera-04a519219
+
+
+- Un gran compañero, que busca cumplir sus metas, y lograr, a futuro, ser un ingeniero de la computacion. 
