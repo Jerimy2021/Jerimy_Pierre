@@ -1,5 +1,5 @@
 # Hola, soy Jerimy
-Soy un chico que quiere aprender sobre las distintas cosas que existen en la programcion y entender el gran cambio tras la presente cuarta revolucion industrial. 
+Soy un chico que quiere aprender sobre las distintas cosas que existen en la programacion y entender el gran cambio tras la presente cuarta revolucion industrial. 
 Tambien e participado en  torneos de debate como organizacion estudiantil, los siguientes:
 - Expresarte
 - Torneo argumentes
