@@ -11,7 +11,7 @@ Tambien e participado en  torneos de debate como organizacion estudiantil, los s
 ![Essan](https://user-images.githubusercontent.com/91238497/134537761-f4bcd2f0-387b-4525-a1f2-d2cd2a4c744a.jpg)
 Me agrada algunos animes:
 Como: ## Tokyo ghoul
-  <img src="https://pa1.narvii.com/6994/f26bbaad1dc72003c28c7da8e7a3838dcaac62c4r1-525-295_hq.gif" width="40" height="40" />
+ (https://pa1.narvii.com/6994/f26bbaad1dc72003c28c7da8e7a3838dcaac62c4r1-525-295_hq.gif)
 Curso la carrera de Ciencias de la computacion💻
 -  Estudiante en Universidad de Ingenieria y Tecnologia (UTEC)
 - Me agrada leer libros de historia o ver animes en ratos de ocio
