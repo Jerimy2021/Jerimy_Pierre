@@ -12,6 +12,7 @@ Tambien e participado en  torneos de debate como organizacion estudiantil, los s
     
 Me agrada algunos animes:
     Como: ## Tokyo ghoul
+ 
  ![Alt Text](https://pa1.narvii.com/6994/f26bbaad1dc72003c28c7da8e7a3838dcaac62c4r1-525-295_hq.gif)
 
 - Curso la carrera de Ciencias de la computacion💻
