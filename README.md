@@ -1,6 +1,6 @@
-# Hola, soy Jerimy
+****##Hola, soy Jerimy
 Soy un chico que quiere aprender sobre las distintas cosas que existen en la programacion y entender el gran cambio tras la presente cuarta revolucion industrial. 
-Tambien e participado en  torneos de debate como organizacion estudiantil, los siguientes:
+Tambien e participado en  torneos de debate como organizacion estudiantil, los siguientes:****
 - Expresarte
 - Torneo argumentes
 - Torneo de la universidad continental (Debate)
@@ -18,7 +18,7 @@ Me agrada algunos animes:
 - Curso la carrera de Ciencias de la computacion💻
 -  Estudiante en Universidad de Ingenieria y Tecnologia (UTEC)
 - Me agrada leer libros de historia o ver animes en ratos de ocio
--  Juego Dota 2 🎮
+-  Juego Dota 2, en ratos de ocio 🎮
 -  Estudie  en la I. E. T. Salesiano Don Bosco - Huancayo
 -  Contactame:
 -  Mis correos electronicos 📧 😄 :
