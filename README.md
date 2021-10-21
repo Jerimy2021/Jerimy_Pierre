@@ -24,8 +24,8 @@ Me agrada algunos animes:
 <<<<<<< HEAD
 -  Juego Dota 2, pero solo en ratos de ocio. 🎮
 =======
--  Juego Dota 2, en ratos de ocio 🎮
->>>>>>> febc5a0f48622e8092fba07da4f5d6378ff8ce2c
+
+
 -  Estudie  en la I. E. T. Salesiano Don Bosco - Huancayo
 -  Contactame:
 -  Mis correos electronicos 📧 😄 :
@@ -35,5 +35,5 @@ Me agrada algunos animes:
 -  Mi linkendin: linkedin.com/in/jerimy-pierre-sandoval-rivera-04a519219
 - Me gusta aprender nuevas cosas
 - leer me gusta mucho
-- esto debe salir
+
 "Un gran compañero, que busca cumplir sus metas, y lograr, a futuro, ser un ingeniero de la computacion" (*Kevin Dulanto*)
