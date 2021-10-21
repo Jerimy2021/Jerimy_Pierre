@@ -2,10 +2,10 @@
 ****Soy un chico que quiere aprender sobre las distintas cosas que existen en la programacion y entender el gran cambio tras la presente cuarta revolucion industrial. 
 Tambien e participado en  torneos de debate como organizacion estudiantil, los siguientes****:
 
-- Torneo argumentes
-- Torneo de la universidad continental (Debate)
-- Torneo ESSAN 
-- Competencia de EPT(Educacion para el trabajo):nivel distrital y regional 2019
+- _Torneo argumentes_
+- _Torneo de la universidad continental (Debate)_
+- _Torneo ESSAN _
+- _Competencia de EPT(Educacion para el trabajo):nivel distrital y regional 2019_
 - etc.
 
 ![Essan](https://user-images.githubusercontent.com/91238497/134537761-f4bcd2f0-387b-4525-a1f2-d2cd2a4c744a.jpg)
