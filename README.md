@@ -24,6 +24,7 @@ Me agrada algunos animes:
 <<<<<<< HEAD
 -  Juego Dota 2, pero solo en ratos de ocio. 🎮
 -  Me gusta leer articulos cientificos.
+
 =======
 
 -  El gran aporte de los profesores que lograron un mayor desarrollo en la sociedad.
