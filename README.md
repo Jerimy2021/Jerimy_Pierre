@@ -23,9 +23,10 @@ Me agrada algunos animes:
 - Me agrada leer libros de historia o ver animes en ratos de ocio
 <<<<<<< HEAD
 -  Juego Dota 2, pero solo en ratos de ocio. 🎮
+-  Me gusta leer articulos cientificos.
 =======
 
-
+-  El gran aporte de los profesores que lograron un mayor desarrollo en la sociedad.
 -  Estudie  en la I. E. T. Salesiano Don Bosco - Huancayo
 -  Contactame:
 -  Mis correos electronicos 📧 😄 :
@@ -33,7 +34,5 @@ Me agrada algunos animes:
 -  jeremi8462@gmail.com
 -  Numero de celular: 960888489
 -  Mi linkendin: linkedin.com/in/jerimy-pierre-sandoval-rivera-04a519219
-- Me gusta aprender nuevas cosas
-- leer me gusta mucho
 
 "Un gran compañero, que busca cumplir sus metas, y lograr, a futuro, ser un ingeniero de la computacion" (*Kevin Dulanto*)
